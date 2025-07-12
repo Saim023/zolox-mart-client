@@ -2,7 +2,6 @@
   color: transparent;
   -webkit-text-stroke: 1px #fff;
   background: url(/src/assets/back.png);
-  -webkit-background-clip: text;
   background-position: 0 0;
   animation: back 30s linear infinite;
 }
