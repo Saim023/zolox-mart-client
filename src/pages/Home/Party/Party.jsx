@@ -9,7 +9,7 @@ const Party = () => {
   const [party, setParty] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/party")
+    fetch("https://zolox-mart-server.onrender.com/party")
       .then((res) => res.json())
       .then((data) => setParty(data))
       .catch((error) => console.log("Error fetching party data:", error));

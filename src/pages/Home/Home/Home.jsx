@@ -39,7 +39,7 @@ const Home = () => {
   };
 
   useEffect(() => {
-    fetch("http://localhost:5000/products")
+    fetch("https://zolox-mart-server.onrender.com/products")
       .then((response) => response.json())
       .then((data) => {
         console.log(data);

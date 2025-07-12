@@ -37,7 +37,7 @@ const CategoryPage = ({ data }) => {
   });
 
   useEffect(() => {
-    fetch(`http://localhost:5000/${baseRoute}`)
+    fetch(`https://zolox-mart-server.onrender.com/${baseRoute}`)
       .then((res) => res.json())
       .then((data) => {
         console.log(data);
