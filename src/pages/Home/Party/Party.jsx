@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import { AuthContext } from "../../../providers/AuthProvider";
 import ProductCard from "../../../components/Card/ProductCard";
 import Swal from "sweetalert2";

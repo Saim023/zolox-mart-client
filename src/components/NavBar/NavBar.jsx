@@ -1,4 +1,4 @@
-import React, { useContext, useState, useEffect, useRef } from "react";
+import { useContext, useState, useEffect, useRef } from "react";
 import "./NavBar.css";
 import { NavLink } from "react-router-dom";
 import { LiaShippingFastSolid } from "react-icons/lia";

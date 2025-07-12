@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+import { useRef, useState } from "react";
 import ParallaxImg from "../../assets/banner/banner.jpg";
 import { Parallax } from "react-parallax";
 import fashionVideo from "../../assets/fashion-video/fashion.mp4";

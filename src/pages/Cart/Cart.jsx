@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import useCart from "../../hooks/useCart";
 import { RiDeleteBin6Line } from "react-icons/ri";
 import { FaHeart, FaRegHeart } from "react-icons/fa";

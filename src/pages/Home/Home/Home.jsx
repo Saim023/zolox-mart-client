@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useRef, useState } from "react";
+import { useContext, useEffect, useRef, useState } from "react";
 import Carousel from "../../../components/Carousel/Carousel";
 import CmsCard from "../../../components/Card/CmsCard";
 import ParallaxImg from "../../../assets/banner/banner.jpg";
