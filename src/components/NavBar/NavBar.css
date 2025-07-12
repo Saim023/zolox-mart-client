@@ -1,0 +1,133 @@
+#nav-items > li {
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+
+#menu-items ul li {
+  padding: 8px 10px;
+}
+
+#menu-items ul li:hover {
+  color: #9740a3;
+}
+
+#wrapper {
+  height: 145px;
+}
+
+#header-left {
+  position: relative;
+  background-color: #fff;
+  padding-right: 20px;
+  z-index: 3;
+}
+
+#header-left::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: -10px;
+  width: 50px;
+  height: 100%;
+  background-color: #fff;
+  transform: skewX(-20deg);
+  box-shadow: 10px 0px 10px rgba(0, 0, 0, 0.1);
+  z-index: -1;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  #mobile-left {
+    position: relative;
+    background-color: #fff;
+    padding-right: 15px;
+    z-index: 3;
+  }
+
+  #mobile-left::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: -15px;
+    width: 40px;
+    height: 100%;
+    background-color: #fff;
+    transform: skewX(-20deg);
+    box-shadow: 10px 0px 10px rgba(0, 0, 0, 0.1);
+    z-index: -1;
+  }
+
+  #mobile-right {
+    background-color: #9740a3;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0 15px;
+  }
+
+  #mobile-right button {
+    font-size: 24px;
+    color: white;
+  }
+
+  #mobile-dropdown-group > li:hover {
+    color: #9740a3;
+    cursor: pointer;
+  }
+}
+
+/* Pyramid Shape */
+#currency-wrapper {
+  position: relative;
+}
+
+.pyramid-shape::before {
+  content: "";
+  position: absolute;
+  top: -14px;
+  right: 30px;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid #ffffff;
+  transform-origin: top right;
+}
+
+/* Special offer */
+@media only screen and (min-width: 1350px) {
+  .special-section {
+    display: block;
+  }
+}
+
+/* Account section blocking */
+@media only screen and (min-width: 1030px) {
+  .account-section {
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 1350px) {
+  .account-section-two {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    margin-left: 80px;
+    margin-bottom: 25px;
+  }
+}
+@media only screen and (max-width: 1350px) {
+  .account-section-four {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    margin-left: 20px;
+    margin-top: 2px;
+  }
+}

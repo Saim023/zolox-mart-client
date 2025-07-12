@@ -1,0 +1,122 @@
+[
+  {
+    "name": "White Flower Shirt",
+    "image": "https://i.ibb.co.com/5grbDcM2/1-62005.jpg",
+    "rating": 4,
+    "price": 85.55,
+    "category": ["Tops", "Formal", "Sheer Tops"],
+    "brand": "Giorgio Armani",
+    "inStock": true,
+    "featuredItem": false
+  },
+  {
+    "name": "Black Halter Neck Short Top",
+    "image": "https://i.ibb.co.com/ks5Rd6FG/2-25062.jpg",
+    "rating": 5,
+    "price": 75.95,
+    "category": ["Tops", "Formal", "Metallic Halter"],
+    "brand": "Hugo Boss",
+    "inStock": true,
+    "featuredItem": true
+  },
+  {
+    "name": "Black Halter Top",
+    "image": "https://i.ibb.co.com/sJP62hk5/4-07794.jpg",
+    "rating": 0,
+    "price": 25.99,
+    "category": ["Tops", "Formal", "Scoop Neck"],
+    "brand": "Primark",
+    "inStock": false,
+    "featuredItem": false
+  },
+  {
+    "name": "Pencil Silver And Black Dress",
+    "image": "https://i.ibb.co.com/bgkFYD6X/9-99031.jpg",
+    "rating": 5,
+    "price": 90.85,
+    "category": ["Tops", "Sleeveless", "Asymmetric"],
+    "brand": "Giorgio Armani",
+    "inStock": true,
+    "featuredItem": true
+  },
+  {
+    "name": "Shine Skater",
+    "image": "https://i.ibb.co.com/pjD2Stvf/12-23895.jpg",
+    "rating": 3,
+    "price": 24.25,
+    "category": ["Tops", "Off Shoulders", "Guipure Midi"],
+    "brand": "Inditex",
+    "inStock": true,
+    "featuredItem": false
+  },
+  {
+    "name": "Casual T-Shirt And Pant",
+    "image": "https://i.ibb.co.com/B5zLmPDT/13-07520.jpg",
+    "rating": 5,
+    "price": 79.79,
+    "category": ["Tops", "Batwing", "Dolan Batwing"],
+    "brand": "Primark",
+    "inStock": true,
+    "featuredItem": true
+  },
+  {
+    "name": "Tunic Blue Long Dress",
+    "image": "https://i.ibb.co.com/QvSgfSbs/14-25113.jpg",
+    "rating": 5,
+    "price": 129.29,
+    "category": ["Tops", "Off Shoulders", "Flecked Linen"],
+    "brand": "Hugo Boss",
+    "inStock": true,
+    "featuredItem": true
+  },
+  {
+    "name": "Tunic Blue Long Dress",
+    "image": "https://i.ibb.co.com/4n0Wv3hW/11-24109.jpg",
+    "rating": 5,
+    "price": 129.29,
+    "category": ["Tops", "Off Shoulders", "Flecked Linen"],
+    "brand": "Hugo Boss",
+    "inStock": true,
+    "featuredItem": false
+  },
+  {
+    "name": "White Shirt With Blue Jeans Skirt",
+    "image": "https://i.ibb.co.com/4gVQ4wrS/18-58927.jpg",
+    "rating": 4,
+    "price": 85.99,
+    "category": ["Tops", "Formal", "Sheer Tops"],
+    "brand": "Inditex",
+    "inStock": true,
+    "featuredItem": false
+  },
+  {
+    "name": "Casual T-Shirt",
+    "image": "https://i.ibb.co.com/q3sTNBjQ/20-04040.jpg",
+    "rating": 0,
+    "price": 18.98,
+    "category": ["Tops", "Batwing", "Echo Cropped"],
+    "brand": "Primark",
+    "inStock": false,
+    "featuredItem": false
+  },
+  {
+    "name": "Colorful Short T-Shirt",
+    "image": "https://i.ibb.co.com/KcxQfjBy/21-63469.jpg",
+    "rating": 3,
+    "price": 39.99,
+    "category": ["Tops", "Batwing", "Magyar Batwing"],
+    "brand": "Inditex",
+    "inStock": true,
+    "featuredItem": false
+  },
+  {
+    "name": "Black And White Bandeau",
+    "image": "https://i.ibb.co.com/fYmCqyts/22-97286.jpg",
+    "rating": 5,
+    "price": 89.95,
+    "category": ["Tops", "Sleeveless", "Guipure Midi"],
+    "brand": "Giorgio Armani",
+    "inStock": true,
+    "featuredItem": true
+  }
+]

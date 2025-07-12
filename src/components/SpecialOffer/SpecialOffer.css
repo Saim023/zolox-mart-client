@@ -1,0 +1,24 @@
+/* .special-offer {
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(394px, 3fr));
+  grid-auto-rows: 300px;
+  grid-auto-flow: dense;
+}
+
+.big {
+}
+
+.small {
+}
+
+.tall {
+  grid-column: span 1;
+  grid-row: span 2;
+} */
+
+.triangle {
+  border-top: 150px solid #9740a3;
+  border-right: 0px solid transparent;
+  border-left: 150px solid transparent;
+}
