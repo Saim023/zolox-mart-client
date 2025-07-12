@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
-import CarouselImg1 from "../../assets/Main-Banner-01_1.jpg";
-import CarouselImg2 from "../../assets/Main-Banner-02_1.jpg";
+import CarouselImg1 from "../../assets/banner/banner.jpg";
+import CarouselImg2 from "../../assets/banner/banner-2.jpg";
 import "./Carousel.css";
 
 const images = [CarouselImg1, CarouselImg2];

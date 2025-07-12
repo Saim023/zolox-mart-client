@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useRef, useState } from "react";
 import Carousel from "../../../components/Carousel/Carousel";
 import CmsCard from "../../../components/Card/CmsCard";
-import ParallaxImg from "../../../assets/Main-Banner-01_1.JPG";
+import ParallaxImg from "../../../assets/banner/banner.jpg";
 import CmsImg1 from "../../../assets/cms-01-removebg-preview.png";
 import CmsImg2 from "../../../assets/cms-2-removebg-preview.png";
 import { Rating, ThinStar } from "@smastrom/react-rating";

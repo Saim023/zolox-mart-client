@@ -3,7 +3,6 @@ import "./NavBar.css";
 import { NavLink } from "react-router-dom";
 import { LiaShippingFastSolid } from "react-icons/lia";
 import { GoChevronDown, GoGift } from "react-icons/go";
-import { SlUser } from "react-icons/sl";
 import { IoCartOutline } from "react-icons/io5";
 import { BsTelephone, BsSearch, BsList } from "react-icons/bs";
 import { IoIosArrowDown } from "react-icons/io";

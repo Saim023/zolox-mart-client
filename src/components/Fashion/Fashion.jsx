@@ -1,8 +1,8 @@
 import React, { useRef, useState } from "react";
-import ParallaxImg from "../../assets/Main-Banner-01_1.JPG";
+import ParallaxImg from "../../assets/banner/banner.jpg";
 import { Parallax } from "react-parallax";
 import fashionVideo from "../../assets/fashion-video/fashion.mp4";
-import videoThumbnail from "../../assets/Main-Banner-02_1.JPG";
+import videoThumbnail from "../../assets/banner/banner.jpg";
 
 const Fashion = () => {
   const videoRef = useRef(null);
